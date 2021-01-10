@@ -1,0 +1,14 @@
+{
+  "name": "video-canvas-magic",
+  "version": "1.0.0",
+  "description": "Video and Canvas magic",
+  "main": "index.js",
+  "scripts": {
+    "sample": "./node_modules/http-server/bin/http-server --p 3000"
+  },
+  "author": "David Herzog",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
